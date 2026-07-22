@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color:blueviolet;
+}
+h1 {
+    text-align: center;
+}
+.box{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid blue;
+}
+#btnbox {
+    background-color: aquamarine;
+    padding: 10px;
+}
